@@ -8,6 +8,7 @@
 #include <linux/ethtool.h>
 #include <linux/module.h>
 #include <linux/inetdevice.h>
+#include <linux/version.h>
 #include <net/cfg80211.h>
 #include <net/rtnetlink.h>
 #include <net/addrconf.h>

@@ -6,6 +6,7 @@
 #include <linux/kernel.h>
 #include <linux/module.h>
 #include <linux/firmware.h>
+#include <linux/version.h>
 #include <linux/usb.h>
 #include <linux/vmalloc.h>
 

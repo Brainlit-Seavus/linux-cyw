@@ -5,6 +5,7 @@
 
 #include <linux/netdevice.h>
 #include <linux/module.h>
+#include <linux/version.h>
 
 #include <brcm_hw_ids.h>
 #include <brcmu_wifi.h>

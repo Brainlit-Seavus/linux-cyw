@@ -8,6 +8,8 @@
 
 #include "debug.h"
 
+#include "linux/version.h"
+
 /* IDs of the 6 default common rings of msgbuf protocol */
 #define BRCMF_H2D_MSGRING_CONTROL_SUBMIT	0
 #define BRCMF_H2D_MSGRING_RXPOST_SUBMIT		1

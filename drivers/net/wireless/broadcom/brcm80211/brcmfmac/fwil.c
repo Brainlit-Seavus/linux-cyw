@@ -9,6 +9,7 @@
 
 #include <linux/kernel.h>
 #include <linux/netdevice.h>
+#include <linux/version.h>
 #include <brcmu_utils.h>
 #include <brcmu_wifi.h>
 #include "core.h"

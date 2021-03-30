@@ -6,6 +6,7 @@
 #include <linux/kernel.h>
 #include <linux/string.h>
 #include <linux/netdevice.h>
+#include <linux/version.h>
 #include <linux/module.h>
 #include <linux/firmware.h>
 #include <brcmu_wifi.h>

@@ -7,6 +7,7 @@
  #include <linux/types.h>
 #include <linux/slab.h>
 #include <linux/netdevice.h>
+#include <linux/version.h>
 
 #include <brcmu_wifi.h>
 #include "core.h"

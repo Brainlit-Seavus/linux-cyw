@@ -10,6 +10,7 @@
 #include <linux/module.h>
 #include <linux/vmalloc.h>
 #include <linux/ctype.h>
+#include <linux/version.h>
 #include <net/cfg80211.h>
 #include <net/netlink.h>
 
